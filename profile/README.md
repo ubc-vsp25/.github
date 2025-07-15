@@ -6,8 +6,8 @@
 
 You will find lecture materials and assignments for the courses:
 
-* [Algorithms](/sathish) - taught by Sathish Gopalakrishnan
-* [Building Modern Web Applications](/karthik) - taught by Karthik Pattabiraman
+* [Algorithms](https://github.com/ubc-vsp25/classroom/tree/master/sathish) - taught by Sathish Gopalakrishnan
+* [Building Modern Web Applications](https://github.com/ubc-vsp25/classroom/tree/master/karthik) - taught by Karthik Pattabiraman
 
 ## Discussions
 
